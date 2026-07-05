@@ -58,6 +58,7 @@ Built a separate HR Dashboard sheet with:
 - Three KPI cards (Total Employees, Average Salary, Overall Attrition Rate), using formulas that pull from the raw data and pivot tables so they update automatically.
 - Column charts built from each of the four Pivot Tables.
 - Slicers for Department and Employment Status, connected to the charts through Report Connections so the dashboard updates together.
+- ![Dashboard Screenshot](HR Dashboard.png)
 
 ## 7. Challenges
 
